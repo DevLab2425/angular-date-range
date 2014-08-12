@@ -1,0 +1,29 @@
+{
+  "name": "angular-date-range",
+  "main": "angular-date-range.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DevLab2425/angular-date-range",
+  "authors": [
+    "DevLab2425"
+  ],
+  "description": "A simple directive to produce a formatted date range display.",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "angular.js",
+    "date range",
+    "angular date",
+    "angularjs date"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21"
+  }
+}
