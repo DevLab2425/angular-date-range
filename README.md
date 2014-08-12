@@ -1,4 +1,8 @@
 #angular-date-range
+[![NPM version](https://badge.fury.io/js/angular-date-range.svg)](http://badge.fury.io/js/angular-date-range)
+[![Bower version](https://badge.fury.io/bo/angular-date-range.svg)](http://badge.fury.io/bo/angular-date-range)
+[![Github version](https://badge.fury.io/gh/angular-date-range.svg)](http://badge.fury.io/gh/angular-date-range)
+
 
 A simple directive to produce a formatted date range display.
 
