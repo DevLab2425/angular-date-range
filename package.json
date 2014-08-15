@@ -1,6 +1,6 @@
 {
   "name": "angular-date-range",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "title": "Angular Date Range",
   "description": "A simple directive to produce a formatted date range display.",
   "main": "angular-date-range.js",
