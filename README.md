@@ -42,6 +42,9 @@ angular.module('dateRangeExample', ['date-range'])
 ### Output
 August 1 - 31, 2014
 
+## Example
+The example app can be launched using a simple web server, however, is dependent on a CDN hosted instance of Angular. You'll need to localize Angular to run completely local.
+
 ## Development
 
 Testing is done using Karma Test Runner.

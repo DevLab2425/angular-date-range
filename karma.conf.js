@@ -12,8 +12,8 @@ module.exports = function(config){
 		// list of files / patterns to load in the browser
 		files: [
 			'bower_components/angular/angular.js',
-			'bower_components/angular-animate/angular-animate.js',
-			'angular-simple-slideshow.js',
+			'bower_components/angular-mocks/angular-mocks.js',
+			'angular-date-range.js',
 			'test/*.js'
 		],
 
@@ -22,7 +22,7 @@ module.exports = function(config){
 
 		// test results reporter to use
 		// possible values: dots || progress || growl
-		reporters: ['progress'],
+		reporters: ['dots'],
 
 		// web server port
 		port: 9876,

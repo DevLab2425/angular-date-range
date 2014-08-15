@@ -32,7 +32,7 @@ module.exports = function(grunt){
 		},
 
 		jshint: {
-			all: ['Gruntfile.js', 'angular-date-range.js', 'test/angular-simple-slideshow.spec.js']
+			all: ['Gruntfile.js', 'angular-date-range.js', 'test/*.js']
 		},
 
 		ngmin: {
